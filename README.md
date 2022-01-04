@@ -1,3 +1,5 @@
+[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/caron14/Tutorial_of_PyCaret_Regression_Analysis/blob/master/pycaret-regression.ipynb)
+
 # Tutorial_of_PyCaret_Regression_Analysis
 Tutorial of PyCaret, a low code machine learning library in Python.\
 The target problem is a regression type.
